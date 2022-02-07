@@ -1,0 +1,6 @@
+testPlayer ->[+5]-> 100 🪜
+testPlayer ->[+4]-> 100 🪜
+testPlayer ->[+6]-> 6
+testPlayer ->[+2]-> 8
+testPlayer ->[+3]-> 50 🪜
+testPlayer ->[+5]-> 100 🪜
